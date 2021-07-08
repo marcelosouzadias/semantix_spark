@@ -1,4 +1,4 @@
-![image](https://semantix.com.br/wp-content/uploads/2021/03/smtx-logo-white.png)
+![image](https://scontent.fudi1-1.fna.fbcdn.net/v/t1.6435-9/159228906_3690079687713312_5035028843487831689_n.png?_nc_cat=103&ccb=1-3&_nc_sid=e3f864&_nc_eui2=AeGxu7tQmrCVud2XV6HZGYLSRkoGovk4dmVGSgai-Th2ZXD5wS-ueGqt9aNhGL9Et1o&_nc_ohc=iD7uFTi5lIYAX8Iohin&_nc_ht=scontent.fudi1-1.fna&oh=f23b72635179e9c304be0b3999930447&oe=60EC6AC5)
 
 # Projeto Final de Spark
 
