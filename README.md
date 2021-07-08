@@ -66,5 +66,5 @@ Link oficial para todas as informações: https://opendatasus.saude.gov.br/datas
 
 # Notebooks
 
-- Nivel Basico
+- [Nivel Basico](./Notebook/nivel_basico.ipynb)
 - Nivel Avançado
