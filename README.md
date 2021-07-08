@@ -1,4 +1,4 @@
-![image](https://i2.wp.com/semantix.com.br/wp-content/uploads/2021/03/smtx-logo-white.png?resize=300%2C71)
+![image](https://semantix.com.br/wp-content/uploads/2021/03/smtx-logo-white.png)
 
 # Projeto Final de Spark
 
