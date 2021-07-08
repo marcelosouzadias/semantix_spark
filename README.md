@@ -12,6 +12,19 @@ O projeto deve estar no github.com, a forma de organizar o conteúdo é por sua 
 
 Ao final do projeto você precisa preencher o formulário com o seu nome completo, email utilizado no treinamento e o link do github do seu projeto.
 
+<br>
+<br>
+<br>
+
+# Notebooks
+
+- [Nivel Basico](./Notebook/nivel_basico.ipynb)
+- Nivel Avançado
+
+<br>
+<br>
+<br>
+
 # Campanha Nacional de Vacinação contra Covid-19
 
 ## **Nível Básico**:
@@ -46,8 +59,8 @@ Link oficial para todas as informações: https://opendatasus.saude.gov.br/datas
 
 • Credenciais de acesso
 
-    o Usuário: imunizacao_public
-    o Senha: qlto5t&7r_@+#Tlstigi
+    o Usuário: xxxx
+    o Senha: xxxxx
 
 ## Links utéis para a resolução do problema:
 
@@ -62,9 +75,3 @@ Link oficial para todas as informações: https://opendatasus.saude.gov.br/datas
 
 ## Instalar Dependências:
 - https://www.elastic.co/guide/en/elasticsearch/hadoop/current/install.html
-
-
-# Notebooks
-
-- [Nivel Basico](./Notebook/nivel_basico.ipynb)
-- Nivel Avançado
